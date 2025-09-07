@@ -1,0 +1,6 @@
+Top scorer per puzzle:
+crossword#222 aisha 78
+wordle#222 adam 90
+crossword#225 No player yet for this puzzle
+crossword#229 luciana 60
+Top player: adam with total score 140

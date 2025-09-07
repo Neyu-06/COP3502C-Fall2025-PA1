@@ -1,0 +1,4 @@
+Top player: alice with total score 190
+Top scorer per puzzle:
+wordle#751 alice 90
+crossword#202 alice 100

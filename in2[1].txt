@@ -1,0 +1,30 @@
+3
+wordle
+crossword
+connections
+7
+aisha
+matthew
+william
+luciana
+adam
+xavier
+hudson
+4
+crossword 222 4
+adam 50
+hudson 55
+aisha 78
+xavier 51
+wordle 222 5
+luciana 60
+matthew 68
+aisha 59
+adam 90
+hudson 85
+crossword 225 0
+crossword 229 1
+luciana 60
+2
+2
+1

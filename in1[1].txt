@@ -1,0 +1,18 @@
+3
+wordle
+crossword
+connections
+3
+alice
+bob
+charlie
+2
+wordle 751 2
+alice 90
+bob 75
+crossword 202 2
+alice 100
+charlie 85
+2
+1
+2
